@@ -1,12 +1,12 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "main": "src/server.js",
+  "main": "/src/server.js",
   "engines": {
     "node": "12.16.1"
   },
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node /src/server.js"
   },
   "author": "",
   "license": "ISC",
